@@ -1,0 +1,130 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "name": "Elham",
+        "lastName": "Naseri",
+        "employeeId": 87319,
+        "courses": "Basics of programming, software engineering"
+      },
+      {
+        "id": 2,
+        "name": "Shahin",
+        "lastName": "Gaeini",
+        "student_id": 39175,
+        "courses": "Basics of programming, software engineering"
+      },
+      {
+        "id": 3,
+        "name": "Ali",
+        "lastName": "Forghani",
+        "student_id": 123456,
+        "courses": "Basics of programming, software engineering"
+      },
+      {
+        "id": 4,
+        "name": "Mobina",
+        "lastName": "Zare",
+        "student_id": 51536,
+        "courses": "Basics of programming, software engineering"
+      },
+      {
+        "id": 5,
+        "name": "Ali",
+        "lastName": "Forghani",
+        "student_id": 123456,
+        "courses": "Basics of programming, software engineering"
+      },
+      {
+        "id": 6,
+        "name": "Elena",
+        "lastName": "Mirabi",
+        "student_id": 12176,
+        "courses": "Basics of programming, software engineering"
+      },
+      {
+        "id": 7,
+        "first_name": "Soheil",
+        "last_name": "Aram",
+        "student_id": 67491,
+        "courses": "Mechanics"
+      },
+      {
+        "id": 8,
+        "first_name": "Barzia",
+        "last_name": "Goli",
+        "student_id": 84862,
+        "courses": "Computer"
+      },
+      {
+        "id": 9,
+        "first_name": "Kurosh",
+        "last_name": "Hamidi",
+        "student_id": 27290,
+        "courses": "Industrial"
+      },
+      {
+        "id": 10,
+        "first_name": "Hosein",
+        "last_name": "Nurian",
+        "student_id": 10478,
+        "courses": "Mechanics"
+      },
+      {
+        "id": 11,
+        "first_name": "Puria",
+        "last_name": "Danesh",
+        "student_id": 67492,
+        "courses": "Computer"
+      },
+      {
+        "id": 12,
+        "first_name": "Vahid",
+        "last_name": "Ostad",
+        "student_id": 51792,
+        "courses": "Industrial"
+      },
+      {
+        "id": 13,
+        "first_name": "Atena",
+        "last_name": "Shabkhiz",
+        "student_id": 94357,
+        "courses": "Mechanics"
+      },
+      {
+        "id": 14,
+        "first_name": "Leila",
+        "last_name": "Bagheri",
+        "student_id": 47269,
+        "courses": "Computer"
+      },
+      {
+        "id": 15,
+        "first_name": "Hoda",
+        "last_name": "Zamani",
+        "student_id": 36548,
+        "courses": "Industrial"
+      },
+      {
+        "id": 16,
+        "first_name": "Abbas",
+        "last_name": "Farhang",
+        "student_id": 19871,
+        "courses": "Mechanics"
+      },
+      {
+        "id": 17,
+        "first_name": "Naser",
+        "last_name": "Mohammadian",
+        "student_id": 85456,
+        "courses": "Computer"
+      },
+      {
+        "id": 18,
+        "first_name": "Mehri",
+        "last_name": "Parwane",
+        "student_id": 54820,
+        "courses": "Industrial"
+      }
+    ]
+  }
